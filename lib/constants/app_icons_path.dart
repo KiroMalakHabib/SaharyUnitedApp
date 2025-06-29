@@ -1,0 +1,36 @@
+class AppIconsPath {
+  static const homeActive = 'assets/icons/home-active.svg';
+  static const homeInActive = 'assets/icons/home-in-active.svg';
+  static const departmentsActive = 'assets/icons/departments-active.svg';
+  static const departmentsInActive = 'assets/icons/departments-in-active.svg';
+  static const ourProjectsActive = 'assets/icons/our-projects-active.svg';
+  static const ourProjectsInActive = 'assets/icons/our-projects-in-active.svg';
+  static const contactUsActive = 'assets/icons/contact-us-active.svg';
+  static const contactUsInActive = 'assets/icons/contact-us-in-active.svg';
+  static const requestPrices = 'assets/icons/request-prices.svg';
+  static const sideDrawer = 'assets/icons/side-drawer.svg';
+  static const rightArrow = 'assets/icons/right-arrow.svg';
+  static const questionnaire = 'assets/icons/questionnaire.svg';
+  static const aboutApp = 'assets/icons/about-app.svg';
+  static const commonQuestions = 'assets/icons/common-questions.svg';
+  static const termsAndConditions = 'assets/icons/terms-and-conditions.svg';
+  static const clients = 'assets/icons/clients.svg';
+  static const partners = 'assets/icons/partners.svg';
+  static const whoWeAre = 'assets/icons/who-we-are.svg';
+  static const language = 'assets/icons/language.svg';
+  static const vision = 'assets/icons/vision.svg';
+  static const goals = 'assets/icons/goals.svg';
+  static const message = 'assets/icons/message.svg';
+  static const values = 'assets/icons/values.svg';
+  static const competitivePrices = 'assets/icons/competitive-prices.svg';
+  static const quality = 'assets/icons/quality.svg';
+  static const networkTimeoutOutline = "assets/icons/network-time-out-out-line.png";
+  static const website = "assets/icons/website.svg";
+  static const phone = "assets/icons/phone.svg";
+  static const email = "assets/icons/email.svg";
+  static const address = "assets/icons/address.svg";
+  static const filter = "assets/icons/filter.svg";
+  static const filterRed = "assets/icons/filter-red.svg";
+  static const filterSearchBar = "assets/icons/filter-search-bar.svg";
+  static const search = "assets/icons/search.svg";
+}

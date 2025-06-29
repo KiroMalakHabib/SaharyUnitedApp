@@ -1,16 +1,52 @@
-# sahary_united_company_for_powers
+# Sahary United
 
-A new Flutter project.
+**Sahary United** is a mobile application built with Flutter that showcases the products and projects of the Sahary United company. It also provides an easy way for users to browse and order instruments directly through the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Browse Instruments** – View a catalog of available instruments with details.
+- 🏗️ **Explore Projects** – Discover past and ongoing company projects.
+- 🛒 **Order Instruments** – Easily place orders for instruments through the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### ✅ Requirements
+
+- **Flutter SDK**: 3.29.2  
+- **Dart SDK**: 3.7.2
+
+> Make sure Flutter is properly set up on your machine. You can verify by running:
+> ```bash
+> flutter doctor
+> ```
+
+---
+
+### 📦 Installation
+
+1. **Clone the repository:**
+
+ ```bash
+ git clone https://github.com/KiroMalakHabib/SaharyUnitedApp.git
+ cd SaharyUnitedApp/
+```
+
+2. **Install dependencies:**
+
+```bash
+flutter pub get
+```
+
+## ▶️ Running the App
+To launch the app on an emulator or a connected device:
+```bash
+flutter run
+```
+
+## 👤 Author
+
+Kirellos Malak Habib
